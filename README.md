@@ -5,6 +5,8 @@ Steps to get started
 - [ISLR](http://www-bcf.usc.edu/~gareth/ISL/) - free book
 
 ## Docker
+We will be using docker for our compute environment. This makes it easy for people to colloborate on different os platforms
+
 [Our Docker Container](https://github.com/KCMachineLearning-AI-Group/KCAICoop_workbench)
 
 [Getting started with docker for newbies](https://docs.docker.com/get-started/)
