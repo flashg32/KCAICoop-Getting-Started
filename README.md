@@ -11,7 +11,7 @@ We will be using docker for our compute environment. This makes it easy for peop
 
 [Getting started with docker for newbies](https://docs.docker.com/get-started/)
 
-We will be using jupyter notebook to run excercises (most of the time) [Getting started](https://jupyter-notebook.readthedocs.io/en/stable/)
+We will be using jupyter notebook to run excercises (most of the time) [Getting started](http://jupyter.org/index.html)
 
 #### Instructions how to run the docker image
 1. `git clone https://github.com/KCMach`
