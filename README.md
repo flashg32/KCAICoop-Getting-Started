@@ -14,7 +14,7 @@ We will be using docker for our compute environment. This makes it easy for peop
 We will be using jupyter notebook to run excercises (most of the time) [Getting started](http://jupyter.org/index.html)
 
 #### Instructions how to run the docker image
-1. `git clone https://github.com/KCMach`
+1. `git clone https://github.com/KCMachineLearning-AI-Group/KCAICoop_workbench.git`
 2. `cd KCAICoop-Getting-Started`
 3. `./run.sh` (only works on linux and mac)
 4. copy the http://localhost:8888/{randomstringhere} and paste url in browser
