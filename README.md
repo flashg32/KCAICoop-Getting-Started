@@ -16,7 +16,7 @@ We will be using jupyter notebook to run excercises (most of the time) [Getting 
 #### Instructions how to run the docker image
 1. `git clone https://github.com/KCMachineLearning-AI-Group/KCAICoop_workbench.git`
 2. `cd KCAICoop_workbench`
-3. `./build.sh`
+3. `./build.sh` (only works on linux and mac)
 4. `./run.sh` (only works on linux and mac)
 5. You should see a url returned in your terminal. copy the (http://localhost:8888/{randomstringhere}) and paste url in browser
 
