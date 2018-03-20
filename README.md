@@ -18,6 +18,6 @@ We will be using jupyter notebook to run excercises (most of the time) [Getting 
 2. `cd KCAICoop_workbench`
 3. `./build.sh`
 4. `./run.sh` (only works on linux and mac)
-5. copy the http://localhost:8888/{randomstringhere} and paste url in browser
+5. You should see a url returned in your terminal. copy the (http://localhost:8888/{randomstringhere}) and paste url in browser
 
 you should now be in the jupyter notebook environment
