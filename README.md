@@ -7,6 +7,9 @@ Steps to get started
 ## Docker
 We will be using docker for our compute environment. This makes it easy for people to colloborate on different os platforms
 
+*Update* If you are on a Windows Computer you will need to be on the Professional Version and:
+  1. Enable Hyper-V on Windows (this is for Windows 10): [https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v]
+
 [Our Docker Container](https://github.com/KCMachineLearning-AI-Group/KCAICoop_workbench)
 
 [Getting started with docker for newbies](https://docs.docker.com/get-started/)
