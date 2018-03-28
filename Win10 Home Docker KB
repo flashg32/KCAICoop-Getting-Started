@@ -1,0 +1,8 @@
+1. Installed Docker Toolkit for Windows(making sure to select the Windows Git and Oracle VM modules)
+2. Before I could execute the program I had disable the Hypervisor setting in Windows.  (www.poweronplatforms.com/enable-disable-hyper-v-windows-10-8/)
+3. I then used the documented setting listed in the original github page 
+   a. git clone https://github.com/KCMachineLearning-AI-Group/KCAICoop_workbench.git
+   b. cd KCAICoop_workbench
+   c. ./build.sh (works on linux and mac and maybe windows 10 with the linux subsystem)
+   d. ./run.sh (works on linux and mac windows 10 with the linux subsystem)
+   e. You should see a url returned in your terminal. copy the (http://192.168.99.100:8888/{randomstringhere}) and paste url in browser
